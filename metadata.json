@@ -1,0 +1,6 @@
+{
+  "name": "WallSync Digital Signage",
+  "description": "Sistema de Digital Signage e Video Wall para 3 TVs verticais com compensação de moldura (bezel), controle de rotação, escala e transmissão em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

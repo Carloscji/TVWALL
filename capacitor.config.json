@@ -1,0 +1,10 @@
+{
+  "appId": "com.wallsync.player",
+  "appName": "WallSync TV Player",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}

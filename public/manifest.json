@@ -1,0 +1,22 @@
+{
+  "short_name": "WallSync TV",
+  "name": "WallSync Digital Signage Player",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?mode=tv",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "categories": ["utilities", "business"]
+}
